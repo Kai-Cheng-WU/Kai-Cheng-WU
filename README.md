@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-My name is Kaicheng, or you can simply call me Kai. I'm a 4th year student in SWE @[McGill University](https://en.wikipedia.org/wiki/McGill_University). I have a passion for learning 
+My name is Kaicheng, or you can simply call me Kai. I'm a 4th year student in SWE @[McGill University](https://en.wikipedia.org/wiki/McGill_University).
+
+_______________
 
 <!--
 **Kai-Cheng-WU/Kai-Cheng-WU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
