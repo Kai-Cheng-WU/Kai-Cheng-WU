@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Kaicheng, or you can simply call me Kai. I'm a 4th year student in SWE @[McGill University](https://en.wikipedia.org/wiki/McGill_University).
+My name is Kaicheng, or you can simply call me Kai. I'm a 4th year student in SWE @[McGill University](https://en.wikipedia.org/wiki/McGill_University). I have a passion for learning 
 
 <!--
 **Kai-Cheng-WU/Kai-Cheng-WU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on: Finishing my degree
+- 🌱 I’m currently learning: How to bench two plates without killing myself
+- 👯 I’m looking to collaborate on: Anything, really
+- 📫 How to reach me: Shoot me an email @ kaicheng.wu@mail.mcgill.ca
+- 😄 Pronouns: He/Him
+- 🎥 Favorite film (currently): Akira Kurosawa's Rashomon
+- 📖 Favorite book: The Road
+- 🎮 Favorite video game: Metal Gear Solid V
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Cheng-WU)](https://github.com/anuraghazra/github-readme-stats)
